@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Jeep 👋
+
+🎓 Third-year Computer Science student at Khon Kaen University, Thailand  
+💻 Junior developer focused on full-stack web development  
+🔐 Interested in cybersecurity and AI  
+🚀 Seeking a **Summer 2027 software development internship**
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Java, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, Vite
+- **Backend:** Node.js, Spring Boot, REST APIs
+- **Databases & services:** PostgreSQL, Supabase, Stripe
+- **Tools:** Git, GitHub, Docker, Maven, Playwright
+
+<!-- Add your public LinkedIn and preferred professional email here. -->
+
